@@ -20,6 +20,7 @@
 4. **Atomic Promotion:** Instantaneous swap to production with automated cache invalidation.
 
 ## Operational Flow
+
 ```mermaid
 graph TD
     User([USER]) -->|Prompt| P1[PHASE I: Intent Ingestion]
