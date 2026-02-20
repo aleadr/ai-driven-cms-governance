@@ -28,7 +28,7 @@ graph TD
     P2 -->|System PAUSE| P3{PHASE III: Human Gate}
     P3 -->|REJECT| Reject([Cancel/Revise])
     P3 -->|APPROVE| P4[PHASE IV: Atomic Promotion]
-    P4 -->|Live| End([Audit Log Recorded])
+    P4 -->|Live| End([Audit Log Recorded])```
 
 ## Infrastructure & Cost Efficiency
 **The Adrian Method of AI-Driven CMS Governance** is optimized for **Static-First architectures**. By leveraging AI to render content changes into static assets, the framework enables high-performance hosting with near-zero operational overhead.
